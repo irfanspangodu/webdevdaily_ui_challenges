@@ -273,14 +273,14 @@ body {
 
 .nav-btn-prev svg,
 .nav-btn-next svg {
-    stroke: #22c55e;
+    stroke: #4dcaa1;
 }
 
 /* Hover: green background + white icon for both */
 .nav-btn-prev:hover,
 .nav-btn-next:hover {
-    background: #22c55e;
-    border-color: #22c55e;
+    background: #4dcaa1;
+    border-color: #4dcaa1;
 }
 
 .nav-btn-prev:hover svg,
